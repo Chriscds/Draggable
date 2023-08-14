@@ -1,2 +1,2 @@
 # Draggable
-Testing draggable items.
+Testing draggable items using jQuery.
